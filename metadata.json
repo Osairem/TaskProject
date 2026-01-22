@@ -1,0 +1,8 @@
+{
+  "name": "Khat Al Jazeera Premium Auctions",
+  "description": "A high-fidelity premium car auction platform UI with real-time bidding features and luxury vehicle inventory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
